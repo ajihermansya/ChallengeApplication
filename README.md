@@ -19,7 +19,7 @@ This project is a straightforward application that utilises the Rick and Morty A
 You may list what feature you created, example :
 - List of character
 - Detail character
-- Favorite character
+- Share character
 - etc.
 
 
