@@ -1,6 +1,7 @@
 #  Rick Morty API APP
 
 ## <a name="introduction"></a> Introduction :
+![WhatsApp Image 2024-01-17 at 22 32 03](https://github.com/ajihermansya/ChallengeApplication/assets/51506661/023a5b71-9967-4cc8-b4ac-028fc9a56aff)
 
 
 Project Description
