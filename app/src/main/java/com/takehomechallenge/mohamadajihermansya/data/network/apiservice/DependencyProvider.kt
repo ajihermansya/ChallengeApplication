@@ -1,4 +1,4 @@
-package com.takehomechallenge.mohamadajihermansya.data.network.apiservive
+package com.takehomechallenge.mohamadajihermansya.data.network.apiservice
 
 import com.takehomechallenge.mohamadajihermansya.data.app.Apps
 import com.takehomechallenge.mohamadajihermansya.data.Repository.ReposytoryData

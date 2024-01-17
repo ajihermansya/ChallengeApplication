@@ -1,4 +1,4 @@
-package com.takehomechallenge.mohamadajihermansya.data.network.apiservive
+package com.takehomechallenge.mohamadajihermansya.data.network.apiservice
 
 import com.takehomechallenge.mohamadajihermansya.data.model.ModelCharacters
 import com.takehomechallenge.mohamadajihermansya.data.model.ModelEpisodes

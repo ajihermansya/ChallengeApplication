@@ -7,7 +7,7 @@ import androidx.paging.liveData
 import retrofit2.Response
 import com.takehomechallenge.mohamadajihermansya.data.network.pagingdata.PagingSourceDetail
 import com.takehomechallenge.mohamadajihermansya.data.network.pagingdata.PagingSourceList
-import com.takehomechallenge.mohamadajihermansya.data.network.apiservive.ApiService
+import com.takehomechallenge.mohamadajihermansya.data.network.apiservice.ApiService
 import com.takehomechallenge.mohamadajihermansya.data.model.ModelEpisodes
 import com.takehomechallenge.mohamadajihermansya.data.model.FilterData
 

@@ -16,7 +16,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.LinearSnapHelper
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.ViewHolder
-import com.takehomechallenge.mohamadajihermansya.data.network.apiservive.DependencyProvider
+import com.takehomechallenge.mohamadajihermansya.data.network.apiservice.DependencyProvider
 import com.takehomechallenge.mohamadajihermansya.R
 import com.takehomechallenge.mohamadajihermansya.databinding.CharactersDetailFragmentBinding
 import kotlinx.coroutines.launch

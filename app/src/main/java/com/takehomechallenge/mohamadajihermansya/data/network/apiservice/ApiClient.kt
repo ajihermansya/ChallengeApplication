@@ -1,4 +1,6 @@
-package com.takehomechallenge.mohamadajihermansya.data.network.apiservive
+package com.takehomechallenge.mohamadajihermansya.data.network.apiservice
+
+
 import com.takehomechallenge.mohamadajihermansya.BuildConfig
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
@@ -8,7 +10,7 @@ import java.util.concurrent.TimeUnit
 
 object ApiClient {
 
-    private val okhttp = OkHttpClient.Builder()
+    val okhttp = OkHttpClient.Builder()
         .apply {
             val loggingInterceptor = HttpLoggingInterceptor()
             loggingInterceptor.level = HttpLoggingInterceptor.Level.BODY
@@ -19,7 +21,7 @@ object ApiClient {
         .connectTimeout(60, TimeUnit.SECONDS)
         .build()
 
-    private val retrofit = Retrofit.Builder()
+    val retrofit = Retrofit.Builder()
         .baseUrl(BuildConfig.API_URL)
         .client(okhttp)
         .addConverterFactory(GsonConverterFactory.create())

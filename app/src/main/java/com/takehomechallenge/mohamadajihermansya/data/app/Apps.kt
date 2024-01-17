@@ -5,8 +5,8 @@ import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 import android.os.Build
-import com.takehomechallenge.mohamadajihermansya.data.network.apiservive.ApiClient
-import com.takehomechallenge.mohamadajihermansya.data.network.apiservive.ApiService
+import com.takehomechallenge.mohamadajihermansya.data.network.apiservice.ApiClient
+import com.takehomechallenge.mohamadajihermansya.data.network.apiservice.ApiService
 
 class Apps : Application() {
 

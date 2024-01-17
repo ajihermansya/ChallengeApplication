@@ -4,7 +4,7 @@ import androidx.paging.PagingSource
 import androidx.paging.PagingState
 import retrofit2.HttpException
 import retrofit2.Response
-import com.takehomechallenge.mohamadajihermansya.data.network.apiservive.ApiService
+import com.takehomechallenge.mohamadajihermansya.data.network.apiservice.ApiService
 import com.takehomechallenge.mohamadajihermansya.data.model.ModelCharacters
 
 class PagingSourceDetail(private val apiService: ApiService, private val characterId: Int): PagingSource<Int, ModelCharacters>() {

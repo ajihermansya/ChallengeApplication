@@ -71,6 +71,9 @@ dependencies {
     testImplementation ("junit:junit:4.13.2")
     androidTestImplementation ("androidx.test.ext:junit:1.1.5")
     androidTestImplementation ("androidx.test.espresso:espresso-core:3.5.1")
+    testImplementation ("org.mockito.kotlin:mockito-kotlin:3.2.0")
+    testImplementation ("com.squareup.okhttp3:mockwebserver:4.9.1")
+
 
     implementation ("com.ramotion.directselect:direct-select:0.1.1")
 

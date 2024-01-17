@@ -12,7 +12,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
 import androidx.paging.LoadState
 import com.google.android.material.bottomsheet.BottomSheetDialog
-import com.takehomechallenge.mohamadajihermansya.data.network.apiservive.DependencyProvider
+import com.takehomechallenge.mohamadajihermansya.data.network.apiservice.DependencyProvider
 import com.takehomechallenge.mohamadajihermansya.R
 import com.takehomechallenge.mohamadajihermansya.databinding.CharactersListFragmentBinding
 import com.takehomechallenge.mohamadajihermansya.data.model.FilterData
