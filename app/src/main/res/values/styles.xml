@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SpecificRounded" parent="">
+        <item name="cornerSizeTopLeft">@dimen/corner</item>
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerSizeBottomLeft">@dimen/corner</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerSizeTopRight">@dimen/corner</item>
+        <item name="cornerFamilyTopRight">rounded</item>
+        <item name="cornerSizeBottomRight">@dimen/corner</item>
+        <item name="cornerFamilyBottomRight">rounded</item>
+    </style>
+
+</resources>

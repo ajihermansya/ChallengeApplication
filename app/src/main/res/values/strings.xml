@@ -1,3 +1,36 @@
 <resources>
-    <string name="app_name">ChallengeApplication</string>
+    <string name="app_name">Rick&amp;Morty</string>
+    <string name="search">Search</string>
+    <string name="error">An issue occurred while loading data!</string>
+    <string name="not_found">Sorry, data not found!</string>
+    <string name="species">Species :</string>
+    <string name="gender">Gender :</string>
+    <string name="character_id">character_id</string>
+    <string name="filter_show_results">Accept</string>
+    <string name="filter_title">Filter</string>
+    <string name="filter_status">Status :</string>
+    <string name="filter_gender">Gender :</string>
+    <string name="more_info">More information</string>
+    <string name="try_again">Try again</string>
+    <string name="name">Mohamad Aji</string>
+    <string name="todo">TODO</string>
+    <string name="name_tag">Name :</string>
+    <string name="human">Human</string>
+    <string name="origin">Origin :</string>
+    <string name="location">Location :</string>
+
+    <string-array name="status">
+        <item>no</item>
+        <item>dead</item>
+        <item>alive</item>
+        <item>unknown</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>no</item>
+        <item>genderless</item>
+        <item>male</item>
+        <item>female</item>
+        <item>unknown</item>
+    </string-array>
 </resources>
