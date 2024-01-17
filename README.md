@@ -1,6 +1,8 @@
 #  Rick Morty API APP
 
 ## <a name="introduction"></a> Introduction :
+
+
 Project Description
 This project is a straightforward application that utilises the Rick and Morty API to showcase character information from the animated series. The application was expertly developed using Retrofit to manage the API connection and Paging to efficiently handle and load data.
 
@@ -35,6 +37,7 @@ You may list what libraries you used in this project, example :
 * `util`
 * `domain`
 * `framework`
+* `testing`
 
 
 ## <a name="apk-link"></a> APK Link : https://drive.google.com/drive/folders/1xb0MLg0gNHFIot7eztLxxLqA91FhkDoS?usp=sharing
