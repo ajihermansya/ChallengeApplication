@@ -63,4 +63,8 @@ class ListCharactersAdapter : PagingDataAdapter<ModelSimpleCharacters, ListChara
         this.onItemClick = onItemClick
     }
 
+    fun submitData(pagingData: List<ModelSimpleCharacters>) {
+
+    }
+
 }
