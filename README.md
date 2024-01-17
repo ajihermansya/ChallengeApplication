@@ -1,8 +1,7 @@
 #  Rick Morty API APP
 
 ## <a name="introduction"></a> Introduction :
-![WhatsApp Image 2024-01-17 at 22 32 03](https://github.com/ajihermansya/ChallengeApplication/assets/51506661/023a5b71-9967-4cc8-b4ac-028fc9a56aff)
-![WhatsApp Image 2024-01-17 at 22 32 41](https://github.com/ajihermansya/ChallengeApplication/assets/51506661/12105cba-27ff-4ada-a270-45341c5f5989)
+![Black and Beige Minimal Fade Phone Mockup Instagram Story](https://github.com/ajihermansya/ChallengeApplication/assets/51506661/03790035-184b-4e3a-bf6a-309c95c20eb4)
 
 Project Description
 
