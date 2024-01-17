@@ -1,7 +1,8 @@
 #  Rick Morty API APP
 
-## <a name="introduction"></a> Introduction : This project is a straightforward application that utilises the Rick and Morty API to showcase character information from the animated series. The application was expertly developed using Retrofit to manage the API connection and Paging to efficiently handle and load data.
+## <a name="introduction"></a> Introduction :
 Project Description
+This project is a straightforward application that utilises the Rick and Morty API to showcase character information from the animated series. The application was expertly developed using Retrofit to manage the API connection and Paging to efficiently handle and load data.
 
 ## Table of Contents
 
